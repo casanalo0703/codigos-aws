@@ -3,7 +3,8 @@ Códigos de AWS y azure para el seminario de proyecto terminal
 
 # Estructura del proyecto
 `Azure/` todos los códigos de Azure que se vean durante las prácticas
-`Aws` todos los códigos de AWS que se vean durante las prácticas
+
+`Aws/` todos los códigos de AWS que se vean durante las prácticas
 
 ## Recomendaciones
 
