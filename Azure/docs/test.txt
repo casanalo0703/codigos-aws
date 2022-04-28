@@ -1,0 +1,1 @@
+Este es un archivo que fue subido a Azure Blob storage
