@@ -1,1 +1,3 @@
 requests
+python-json-logger
+boto3
