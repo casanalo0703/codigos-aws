@@ -21,3 +21,19 @@ PowerShell:
 ```powershell
 setx AZURE_STORAGE_CONNECTION_STRING "<clave>"
 ```
+
+## Cosmos db
+para cosmosd db se necesita tener una cuenta de cosmos db, además de tener una base de datos dentro de un contenedor, y cambiar los nombres a los de su contenedor y base específicos.
+
+Se debe de instalar `requirements.txt`, y, además de exportar las variables de `endpoint` y `key`.
+
+Bash:
+```bash
+export ENDPOINT="<clave>"
+export KEY="<clave>"
+```
+PowerShell:
+```powershell
+setx ENDPOINT "<clave>"
+setx KEY "<clave>"
+```

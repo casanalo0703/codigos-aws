@@ -1,3 +1,6 @@
 #ignorar ambientes virtuales
 env/
 node_modules/
+.python_packages
+__pycache__
+.vscode
